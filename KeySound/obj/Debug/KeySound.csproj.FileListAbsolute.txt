@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\KeySound\KeySound\bin\Debug\KeySound.exe.config
+C:\Users\Admin\source\repos\KeySound\KeySound\bin\Debug\KeySound.exe
+C:\Users\Admin\source\repos\KeySound\KeySound\bin\Debug\KeySound.pdb
+C:\Users\Admin\source\repos\KeySound\KeySound\obj\Debug\KeySound.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\KeySound\KeySound\obj\Debug\KeySound.exe
+C:\Users\Admin\source\repos\KeySound\KeySound\obj\Debug\KeySound.pdb
