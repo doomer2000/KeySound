@@ -52,26 +52,15 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Sounds\180966__ueffects__enter-key.wav" />
-    <Content Include="Sounds\180967__ueffects__e-key.wav" />
-    <Content Include="Sounds\180968__ueffects__mouse-click.wav" />
-    <Content Include="Sounds\180969__ueffects__r-key.wav" />
-    <Content Include="Sounds\180970__ueffects__t-key.wav" />
-    <Content Include="Sounds\180971__ueffects__s-key.wav" />
-    <Content Include="Sounds\180972__ueffects__l-key.wav" />
-    <Content Include="Sounds\180973__ueffects__key-series.wav" />
-    <Content Include="Sounds\180974__ueffects__a-key.wav" />
-    <Content Include="Sounds\180997__ueffects__enter-key.wav" />
-    <Content Include="Sounds\180998__ueffects__e-key.wav" />
-    <Content Include="Sounds\180999__ueffects__mouse-click.wav" />
-    <Content Include="Sounds\181000__ueffects__r-key.wav" />
-    <Content Include="Sounds\181001__ueffects__t-key.wav" />
-    <Content Include="Sounds\181002__ueffects__s-key.wav" />
-    <Content Include="Sounds\181003__ueffects__l-key.wav" />
-    <Content Include="Sounds\181004__ueffects__key-taps.wav" />
-    <Content Include="Sounds\181005__ueffects__a-key.wav" />
-    <Content Include="Sounds\a.wav" />
-    <Content Include="Sounds\space.wav" />
+    <Content Include="Sounds\0-key.wav" />
+    <Content Include="Sounds\1-key.wav" />
+    <Content Include="Sounds\2-key.wav" />
+    <Content Include="Sounds\3-key.wav" />
+    <Content Include="Sounds\4-key.wav" />
+    <Content Include="Sounds\5-key.wav" />
+    <Content Include="Sounds\Backspace-key.wav" />
+    <Content Include="Sounds\Enter-key.wav" />
+    <Content Include="Sounds\Space-key.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
